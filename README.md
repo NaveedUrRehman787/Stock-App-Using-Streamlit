@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-- Open a web browser and go to http://localhost:8501 to view the app.
+- Open a web browser and go to `http://localhost:8501` to view the app.
 
 ## Features
 Select a ticker symbol from a list of options (Google, Apple, Microsoft, Amazon)
